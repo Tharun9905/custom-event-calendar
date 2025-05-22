@@ -46,5 +46,4 @@ Developing this calendar application involved overcoming several technical chall
 
 * **Frontend:** HTML, CSS, JavaScript, React
 * **Date Handling:** date-fns library
-* **Testing:** @testing-library/react (example)
-* **(Potentially):** [Mention any other libraries or frameworks used, e.g., for state management, styling, etc.]
+* **Testing:** @testing-library/react 
