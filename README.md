@@ -39,8 +39,8 @@ Developing this calendar application involved overcoming several technical chall
 
 ## Resulted Images
 
-* (![WhatsApp Image 2025-05-22 at 19 01 31_92d0b20c](https://github.com/user-attachments/assets/806c3403-468e-43be-8dfc-ae6b521253e0))
-* (![WhatsApp Image 2025-05-22 at 19 01 42_ee741d9b](https://github.com/user-attachments/assets/5d05e05b-9917-4643-9205-30dc95233d93))
+* ![WhatsApp Image 2025-05-22 at 19 01 31_92d0b20c](https://github.com/user-attachments/assets/806c3403-468e-43be-8dfc-ae6b521253e0)
+* ![WhatsApp Image 2025-05-22 at 19 01 42_ee741d9b](https://github.com/user-attachments/assets/5d05e05b-9917-4643-9205-30dc95233d93)
 
 ## Technologies Used
 
